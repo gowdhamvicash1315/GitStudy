@@ -1,0 +1,20 @@
+GIT Commands
+
+git config --global user.name "qawork-coder"
+
+git config --global user.email "qawork02@gmail.com"
+
+git init
+
+git add *
+
+git status
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/qawork-coder/SimliLearnBatch26Nov.git
+
+git push -u origin master
+
+
+
